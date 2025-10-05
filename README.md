@@ -4,9 +4,11 @@
 </p>
 
 <!-- Typing Title -->
+<!-- Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=640&lines=AI+%26+Cloud+Enthusiast;Open+Source+Contributor;Building+things+that+blend+tech+%2B+creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=640&lines=UG+Graduate;AI+%26+Cloud+Enthusiast;Open+Source+Contributor;Building+things+that+blend+tech+%2B+creativity" alt="Typing SVG" />
 </p>
+
 
 <!-- Quick badges -->
 <div align="center">
