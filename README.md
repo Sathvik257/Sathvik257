@@ -89,7 +89,6 @@
 
 <!-- Streaks & Trophies -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sathvik257&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
   <img src="https://github-profile-trophy.vercel.app/?username=Sathvik257&theme=matrix&no-frame=true&row=1&margin-w=12" height="165" alt="trophies"/>
 </div>
 
