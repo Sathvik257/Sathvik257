@@ -111,6 +111,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
 </p>
+⭐ If you like this project, consider giving it a star to support the development!
 
 <!--
 Troubleshooting cards:
