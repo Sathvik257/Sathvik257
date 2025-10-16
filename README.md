@@ -23,8 +23,6 @@
 ## ✨ About Me
 - 🎓 B.Tech CSE | Passionate about **AI, Cloud, and Systems**
 - 💻 Skilled in **C · C++ · Java · Python · JavaScript/TypeScript**
-- ⚡ Interests: **AI applications · Quantum Computing · Cloud Infra · ARQ Protocols**
-- 🌱 Learning **Full-Stack Dev & Cloud Automation**
 - 🎯 Goal: Build projects that merge **technology + creativity**
 
 ---
