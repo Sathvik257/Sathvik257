@@ -87,7 +87,10 @@
 
 <!-- Streaks & Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sathvik257&theme=matrix&no-frame=true&row=1&margin-w=12" height="165" alt="trophies"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathvik257&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sathvik257&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
 </div>
 
 ---
