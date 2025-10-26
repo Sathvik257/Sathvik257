@@ -85,15 +85,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvik257&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top langs"/>
 </div>
 
-<!-- Streaks & Trophies -->
+<!-- GitHub Trophies -->
 <div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathvik257&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Sathvik257&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sathvik257&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+  </a>
 </div>
 
----
 
 ## 🌐 Connect
 <div align="center">
