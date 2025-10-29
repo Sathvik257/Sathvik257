@@ -66,10 +66,10 @@
   />
 </a>
 
-<a href="https://github.com/Sathvik257/Sathvik257.github.io">
+<a href="https://github.com/Sathvik257/Sathvik">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Sathvik257&repo=Sathvik257.github.io&theme=tokyonight&hide_border=true&cache_seconds=7200"
-    alt="Portfolio (Sathvik257.github.io)"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Sathvik257&repo=Sathvik&theme=tokyonight&hide_border=true&cache_seconds=7200"
+    alt="Portfolio (Sathvik)"
   />
 </a>
 
