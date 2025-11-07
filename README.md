@@ -66,10 +66,10 @@
   />
 </a>
 
-<a href="https://github.com/Sathvik257/Sathvik">
+<a href="https://github.com/Sathvik257/Crop-disease-detection">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=Sathvik257&repo=Sathvik&theme=tokyonight&hide_border=true&cache_seconds=7200"
-    alt="Portfolio (Sathvik)"
+    alt="Crop-disease-detection"
   />
 </a>
 
