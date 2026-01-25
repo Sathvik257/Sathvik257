@@ -5,7 +5,7 @@
 
 <!-- Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=640&lines=Undergraduate+CS+Student;Open+Source+Contributor;Building+things+that+blend+Tech+%26+Creativity;AI+%7C+Web+%7C+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=640&lines=Undergraduate+CSE+Student;Open+Source+Contributor;Building+things+that+blend+Tech+%26+Creativity;AI+%7C+Web+%7C+Cloud+Enthusiast" alt="Typing SVG" />
 </p>
 
 <!-- Quick badges -->
