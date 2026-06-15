@@ -1,4 +1,3 @@
-```md
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Sathvik%20👋&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" alt="header"/>
@@ -111,4 +110,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
 </p>
-```
