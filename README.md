@@ -1,14 +1,13 @@
+```md
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Sathvik%20👋&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" alt="header"/>
 </p>
 
-<!-- Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=640&lines=Undergraduate+CSE+Student;Open+Source+Contributor;Building+things+that+blend+Tech+%26+Creativity;AI+%7C+Web+%7C+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=750&lines=Undergraduate+CSE+Student;AI+%7C+Full+Stack+%7C+Cloud+Enthusiast;Building+Modern+Web+%26+AI+Applications;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<!-- Quick badges -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sathvik257&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
   <a href="https://github.com/Sathvik257?tab=followers"><img src="https://img.shields.io/github/followers/Sathvik257?logo=github&style=flat" alt="Followers"/></a>
@@ -19,27 +18,45 @@
 ---
 
 ## ✨ About Me
-- 🎓 **B.Tech CSE Student** | Passionate about **AI, Cloud, and Web Systems**  
-- 💻 Skilled in **C · C++ · Java · Python · JavaScript / TypeScript**  
-- 🎯 Goal: To build solutions that merge **technology and creativity**  
-- 🚀 Currently exploring **AI-powered web applications** & **open-source collaboration**
+- 🎓 **B.Tech CSE Student**
+- 🤖 Interested in **AI, Full Stack Development, Cloud Computing, and Open Source**
+- 💻 Building projects using **React, Next.js, Node.js, Python, AI APIs, and Cloud tools**
+- 🚀 Exploring **AI-powered web apps, LLMs, automation, and scalable systems**
+- 🎯 Goal: To create useful products that combine **technology, creativity, and real-world problem solving**
 
 ---
 
 ## 🧰 Tech Stack
+
 <div align="center">
 
-### 💡 Languages
+### 💡 Programming Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&perline=6" alt="Languages"/>
 
-### ⚙️ Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,aws,git,linux&perline=6" alt="Tools"/>
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&perline=6" alt="Frontend"/>
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&perline=6" alt="Backend"/>
+
+### 🤖 AI & Data
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4" alt="AI"/>
+<br/>
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,git,github,linux&perline=8" alt="Cloud"/>
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,vite&perline=5" alt="Tools"/>
 
 </div>
 
 ---
 
 ## 🚀 Featured Projects
+
 <div align="center">
 
 <a href="https://github.com/Sathvik257/Justice-GPT">
@@ -47,7 +64,7 @@
 </a>
 
 <a href="https://github.com/Sathvik257/Smart-Resume-Builder-with-AI-Suggestions">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sathvik257&repo=Smart-Resume-Builder-with-AI-Suggestions&theme=tokyonight&hide_border=true" alt="Smart Resume Builder with AI Suggestions"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sathvik257&repo=Smart-Resume-Builder-with-AI-Suggestions&theme=tokyonight&hide_border=true" alt="Smart Resume Builder"/>
 </a>
 
 <a href="https://github.com/Sathvik257/Smart-Home">
@@ -65,12 +82,12 @@
 ---
 
 ## 📊 GitHub Analytics
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sathvik257&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvik257&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 </div>
 
-<!-- GitHub Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sathvik257&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 </div>
@@ -78,6 +95,7 @@
 ---
 
 ## 🌐 Connect with Me
+
 <div align="center">
   <a href="mailto:polisettysathvik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/sathvik-polisetty-6a7101357/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -87,10 +105,10 @@
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star to support future projects!  
+  ⭐ If you like my work, consider giving a star to support future projects!
 </p>
 
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
 </p>
+```
