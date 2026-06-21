@@ -1,112 +1,149 @@
 <!-- Banner -->
+<h1 align="center">Hi 👋, I'm Polisetty Teja Sairama Sathvik</h1>
+<h3 align="center"> AI Enthusiast | CSE Undergraduate</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Sathvik%20👋&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" alt="header"/>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 B.Tech CSE Student at **SRM University-AP** (2023–2027)
+
+💻 Passionate about:
+
+- Full Stack Development
+- Artificial Intelligence
+- Cloud Computing
+- Problem Solving
+- Building Real-World Applications
+
+🌱 Currently learning:
+
+- MERN Stack
+- AWS Cloud
+- System Design
+- Advanced React
+
+📫 Reach me at:
+
+**📧 polisettysathvik@gmail.com**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express.js-black?style=flat)
+
+### Database & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat)
+
+---
+
+# 🚀 Featured Projects
+
+## ⚖ Justice GPT – AI Legal Assistant
+
+- Predicts IPC sections from crime descriptions.
+- Built using React.js, Tailwind CSS and Gemini API.
+- Generates AI-powered legal responses.
+
+---
+
+## 🌱 Crop Disease Detection
+
+- Deep learning model for identifying crop diseases.
+- Built using Python and CNN.
+- Image preprocessing and classification.
+
+---
+
+## 🏠 Smart Home Automation System
+
+- Voice-controlled appliance automation.
+- Speech recognition and real-time command execution.
+
+---
+
+## 📢 Smart Grievance Management System
+
+- Complaint registration and tracking platform.
+- React.js + Node.js + AWS Lambda + DynamoDB.
+
+---
+
+# 💼 Experience
+
+### Web Development Intern — Elevate Labs
+
+- Built full-stack features.
+- Worked with REST APIs, Git and deployment tools.
+- Collaborated in Agile development.
+
+### Research Intern — Justice GPT Project
+
+- Developed AI-powered legal assistant.
+- Integrated Gemini API.
+- Built responsive React interfaces.
+
+### Python Development Intern — CodexIntern
+
+- Worked with OOP, File Handling and Data Structures.
+- Improved debugging and modular coding practices.
+
+---
+
+## 📜 Certifications
+
+✔ Java SE 17 Developer
+
+✔ AWS Cloud Practitioner
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=750&lines=Undergraduate+CSE+Student;AI+%7C+Full+Stack+%7C+Cloud+Enthusiast;Building+Modern+Web+%26+AI+Applications;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sathvik257&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  <a href="https://github.com/Sathvik257?tab=followers"><img src="https://img.shields.io/github/followers/Sathvik257?logo=github&style=flat" alt="Followers"/></a>
-  <a href="mailto:polisettysathvik@gmail.com"><img src="https://img.shields.io/badge/Email-polisettysathvik%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/sathvik-polisetty-6a7101357/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</div>
-
 ---
 
-## ✨ About Me
-- 🎓 **B.Tech CSE Student**
-- 🤖 Interested in **AI, Full Stack Development, Cloud Computing, and Open Source**
-- 💻 Building projects using **React, Next.js, Node.js, Python, AI APIs, and Cloud tools**
-- 🚀 Exploring **AI-powered web apps, LLMs, automation, and scalable systems**
-- 🎯 Goal: To create useful products that combine **technology, creativity, and real-world problem solving**
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-### 💡 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&perline=6" alt="Languages"/>
-
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&perline=6" alt="Frontend"/>
-
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&perline=6" alt="Backend"/>
-
-### 🤖 AI & Data
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4" alt="AI"/>
-<br/>
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,git,github,linux&perline=8" alt="Cloud"/>
-
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,vite&perline=5" alt="Tools"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Sathvik257/Justice-GPT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sathvik257&repo=Justice-GPT&theme=tokyonight&hide_border=true" alt="Justice-GPT"/>
-</a>
-
-<a href="https://github.com/Sathvik257/Smart-Resume-Builder-with-AI-Suggestions">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sathvik257&repo=Smart-Resume-Builder-with-AI-Suggestions&theme=tokyonight&hide_border=true" alt="Smart Resume Builder"/>
-</a>
-
-<a href="https://github.com/Sathvik257/Smart-Home">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sathvik257&repo=Smart-Home&theme=tokyonight&hide_border=true" alt="Smart Home"/>
-</a>
-
-<a href="https://github.com/Sathvik257/Crop-disease-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sathvik257&repo=Crop-disease-detection&theme=tokyonight&hide_border=true" alt="Crop Disease Detection"/>
-</a>
-
-</div>
-
-> 💡 Explore more in my [**repositories**](https://github.com/Sathvik257?tab=repositories)!
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sathvik257&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvik257&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sathvik257&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="mailto:polisettysathvik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/sathvik-polisetty-6a7101357/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Sathvik257"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
-
----
-
-<p align="center">
-  ⭐ If you like my work, consider giving a star to support future projects!
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
-</p>
+<h3 align="center">
+⭐ Turning ideas into impactful solutions through code.
+</h3>
