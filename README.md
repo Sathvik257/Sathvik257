@@ -1,149 +1,99 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Polisetty Teja Sairama Sathvik</h1>
-<h3 align="center"> AI Enthusiast | CSE Undergraduate</h3>
+<div align="center">
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+# Hi, I'm Sathvik 👋
+### Polisetty Teja Sairama Sathvik
 
----
+**Applied AI · Full-stack development · Security research**
 
-## 🚀 About Me
+I turn ideas into interactive products—from source-backed research assistants to network-security experiments.
 
-🎓 B.Tech CSE Student at **SRM University-AP** (2023–2027)
+[![Portfolio](https://img.shields.io/badge/Explore_my_portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://sathvik-fa1l.vercel.app/)
+[![Email](https://img.shields.io/badge/Let's_connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:polisettysathvik@gmail.com)
+[![Repositories](https://img.shields.io/badge/Browse_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sathvik257?tab=repositories)
 
-💻 Passionate about:
-
-- Full Stack Development
-- Artificial Intelligence
-- Cloud Computing
-- Problem Solving
-- Building Real-World Applications
-
-🌱 Currently learning:
-
-- MERN Stack
-- AWS Cloud
-- System Design
-- Advanced React
-
-📫 Reach me at:
-
-**📧 polisettysathvik@gmail.com**
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## A little about me
 
-### Languages
+I'm a **B.Tech Computer Science student at SRM University–AP (2023–2027)**, interested in the space where machine learning meets useful software. My projects span legal research, learning tools, growth analytics, and security.
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+- **Building:** AI-powered applications with usable interfaces and practical backend systems.
+- **Exploring:** retrieval-grounded answers, local LLMs, reinforcement learning, and model evaluation.
+- **Learning:** cloud architecture, system design, and reliable full-stack delivery.
+- **My approach:** build a working demo, test the important behavior, and explain the limitations.
 
-### Frontend
+## Pick a project to explore
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css)
+| Project | What you'll find | Explore |
+| :--- | :--- | :--- |
+| **🛡️ Adaptive Defense** | Network-intrusion research combining an autoencoder with a DQN threshold controller. React console for recorded replay, analyst review, and benchmark comparisons. **Synthetic-data research demo; no live traffic protection.** | [Code](https://github.com/Sathvik257/Adaptive-Defense) · [Demo](https://web-flame-eight-75.vercel.app/) |
+| **⚖️ Justice GPT** | Dataset-first Indian legal research using judgment data and official India Code statutes, with an AI fallback. Built to explore case scenarios and relevant legal provisions. | [Code](https://github.com/Sathvik257/Justice-GPT) |
+| **🧠 Lenny Growth Assistant** | A local research studio that turns podcast transcripts into cited answers, essays, and Markdown/HTML artifacts. React, FastAPI, PostgreSQL, and local/cloud model options. | [Code](https://github.com/Sathvik257/lenny-growth-assistant) |
+| **📈 Campus Relay** | A campus-growth campaign desk with referral tracking, funnel analysis, and recovery planning. **A browser-local simulation with fictional campaign data.** | [Code](https://github.com/Sathvik257/Growth-AI) · [Demo](https://growthai-iota.vercel.app/) |
+| **📚 Study Assistant** | Notes-to-flashcards and quizzes, study missions, and a retest queue. Structured AI output, local session storage, and handling for slow or invalid responses. | [Code](https://github.com/Sathvik257/Study-assistant) |
+| **📬 Email Scheduler** | A full-stack scheduling app with Google login, PostgreSQL, Redis/BullMQ queues, rate limiting, and SMTP previews. | [Code](https://github.com/Sathvik257/Email-Scheduler) |
 
-### Backend
+**Also explore:** [AI Trip Planner](https://github.com/Sathvik257/Trip-Planner) · [ExamShield](https://github.com/Sathvik257/AI-Anti-Cheating-System) · [All repositories →](https://github.com/Sathvik257?tab=repositories)
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express.js-black?style=flat)
+## What I'm exploring through my work
 
-### Database & Cloud
+**Grounded AI, with sources.** Justice GPT and Lenny Growth Assistant explore answers tied to reference material and inspectable evidence.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat)
+**Local models and agent workflows.** Lenny Growth Assistant combines Ollama, an agent service, persistent conversations, and generated artifacts.
 
----
+**Evaluation beyond a polished demo.** Adaptive Defense compares reinforcement learning with non-RL baselines and reports detection trade-offs and research boundaries.
 
-# 🚀 Featured Projects
+**AI products with reliable foundations.** Structured outputs, validation, background queues, and persistence make the interface only one part of the product.
 
-## ⚖ Justice GPT – AI Legal Assistant
+## Recent activity
 
-- Predicts IPC sections from crime descriptions.
-- Built using React.js, Tailwind CSS and Gemini API.
-- Generates AI-powered legal responses.
+*A snapshot of public repository updates, checked on 2 November 2026. These dates reflect repository pushes, not project launch dates.*
 
----
+| Latest update | Project | Focus |
+| :--- | :--- | :--- |
+| **2 Nov 2026** | [Adaptive Defense](https://github.com/Sathvik257/Adaptive-Defense) | Intrusion-detection experiments, benchmark evidence, and an interactive research console |
+| **28 Oct 2026** | [Campus Relay / Growth-AI](https://github.com/Sathvik257/Growth-AI) | Referral attribution and campaign decision support |
+| **21 Sep 2026** | [Justice GPT](https://github.com/Sathvik257/Justice-GPT) | Dataset-first legal research |
+| **15 Sep 2026** | [Lenny Growth Assistant](https://github.com/Sathvik257/lenny-growth-assistant) | Cited research and local-model workflows |
 
-## 🌱 Crop Disease Detection
+[See my latest repository activity →](https://github.com/Sathvik257?tab=repositories&sort=updated)
 
-- Deep learning model for identifying crop diseases.
-- Built using Python and CNN.
-- Image preprocessing and classification.
+## My toolkit
 
----
+| Area | Technologies I use across my projects |
+| :--- | :--- |
+| **Languages** | Python · TypeScript · JavaScript · Java · C · C++ · SQL |
+| **Frontend** | React · Vite · Tailwind CSS · HTML · CSS |
+| **Backend & data** | FastAPI · Node.js · Express · PostgreSQL · MongoDB · SQLite · Redis · BullMQ |
+| **AI & ML** | PyTorch · scikit-learn · Ollama · LLM APIs · Retrieval workflows |
+| **Cloud & tools** | AWS · Lambda · DynamoDB · Vercel · Docker · Git · GitHub Actions |
 
-## 🏠 Smart Home Automation System
+<details>
+<summary><b>Experience & certifications</b></summary>
 
-- Voice-controlled appliance automation.
-- Speech recognition and real-time command execution.
+### Experience
 
----
+- **Web Development Intern — Elevate Labs:** full-stack features, REST APIs, Git, deployment tools, and Agile collaboration.
+- **Research Intern — Justice GPT:** AI-assisted legal research, Gemini API integration, and responsive React interfaces.
+- **Python Development Intern — CodexIntern:** object-oriented programming, file handling, data structures, debugging, and modular code.
 
-## 📢 Smart Grievance Management System
+### Certifications
 
-- Complaint registration and tracking platform.
-- React.js + Node.js + AWS Lambda + DynamoDB.
+- Java SE 17 Developer
+- AWS Cloud Practitioner
 
----
-
-# 💼 Experience
-
-### Web Development Intern — Elevate Labs
-
-- Built full-stack features.
-- Worked with REST APIs, Git and deployment tools.
-- Collaborated in Agile development.
-
-### Research Intern — Justice GPT Project
-
-- Developed AI-powered legal assistant.
-- Integrated Gemini API.
-- Built responsive React interfaces.
-
-### Python Development Intern — CodexIntern
-
-- Worked with OOP, File Handling and Data Structures.
-- Improved debugging and modular coding practices.
+</details>
 
 ---
 
-## 📜 Certifications
+<div align="center">
 
-✔ Java SE 17 Developer
+**Have an idea around AI, useful web tools, or security research?**
 
-✔ AWS Cloud Practitioner
+[Explore my portfolio](https://sathvik-fa1l.vercel.app/) · [Say hello](mailto:polisettysathvik@gmail.com)
 
----
+*Curious about the problem. Serious about making it work.*
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<h3 align="center">
-⭐ Turning ideas into impactful solutions through code.
-</h3>
+</div>
