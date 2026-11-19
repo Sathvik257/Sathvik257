@@ -29,13 +29,30 @@ I'm a **B.Tech Computer Science student at SRM University–AP (2023–2027)**, 
 | Project | What you'll find | Explore |
 | :--- | :--- | :--- |
 | **🛡️ Adaptive Defense** | Network-intrusion research combining an autoencoder with a DQN threshold controller. React console for recorded replay, analyst review, and benchmark comparisons. **Synthetic-data research demo; no live traffic protection.** | [Code](https://github.com/Sathvik257/Adaptive-Defense) · [Demo](https://web-flame-eight-75.vercel.app/) |
-| **⚖️ Justice GPT** | Dataset-first Indian legal research using judgment data and official India Code statutes, with an AI fallback. Built to explore case scenarios and relevant legal provisions. | [Code](https://github.com/Sathvik257/Justice-GPT) |
-| **🧠 Lenny Growth Assistant** | A local research studio that turns podcast transcripts into cited answers, essays, and Markdown/HTML artifacts. React, FastAPI, PostgreSQL, and local/cloud model options. | [Code](https://github.com/Sathvik257/lenny-growth-assistant) |
+| **⚖️ Justice GPT** | Dataset-first Indian legal research using judgment data and official India Code statutes, with an AI fallback. Built to explore case scenarios and relevant legal provisions. | [Code](https://github.com/Sathvik257/Justice-GPT) · [Demo](https://justice-gpt-87o9.vercel.app/) |
+| **🧠 Lenny Growth Assistant** | A local research studio that turns podcast transcripts into cited answers, essays, and Markdown/HTML artifacts. React, FastAPI, PostgreSQL, and local/cloud model options. | [Code](https://github.com/Sathvik257/lenny-growth-assistant) · [Demo](https://lenny-growth-assistant-seven.vercel.app) |
 | **📈 Campus Relay** | A campus-growth campaign desk with referral tracking, funnel analysis, and recovery planning. **A browser-local simulation with fictional campaign data.** | [Code](https://github.com/Sathvik257/Growth-AI) · [Demo](https://growthai-iota.vercel.app/) |
-| **📚 Study Assistant** | Notes-to-flashcards and quizzes, study missions, and a retest queue. Structured AI output, local session storage, and handling for slow or invalid responses. | [Code](https://github.com/Sathvik257/Study-assistant) |
-| **📬 Email Scheduler** | A full-stack scheduling app with Google login, PostgreSQL, Redis/BullMQ queues, rate limiting, and SMTP previews. | [Code](https://github.com/Sathvik257/Email-Scheduler) |
+| **📚 Study Assistant** | Notes-to-flashcards and quizzes, study missions, and a retest queue. Structured AI output, local session storage, and handling for slow or invalid responses. | [Code](https://github.com/Sathvik257/Study-assistant) · [Demo](https://study-assistant-9oia.vercel.app/) |
+| **📬 Email Scheduler** | A full-stack scheduling app with Google login, PostgreSQL, Redis/BullMQ queues, rate limiting, and SMTP previews. | [Code](https://github.com/Sathvik257/Email-Scheduler) · [Demo](https://reachinbox-frontend-19kg.onrender.com) |
 
-**Also explore:** [AI Trip Planner](https://github.com/Sathvik257/Trip-Planner) · [ExamShield](https://github.com/Sathvik257/AI-Anti-Cheating-System) · [All repositories →](https://github.com/Sathvik257?tab=repositories)
+**Also explore:** [AI Trip Planner](https://github.com/Sathvik257/Trip-Planner) ([Demo](https://trip-planner-rosy-eight.vercel.app/)) · [ExamShield](https://github.com/Sathvik257/AI-Anti-Cheating-System) ([Demo](https://ai-anti-cheating-system-ccda.vercel.app/)) · [All repositories →](https://github.com/Sathvik257?tab=repositories)
+
+<details>
+<summary><b>More projects with demos</b></summary>
+
+Demo links listed in each repository's About section.
+
+| Project | Explore |
+| :--- | :--- |
+| Crop Disease Detection | [Code](https://github.com/Sathvik257/Crop-disease-detection) · [Demo](https://website-update-n8tv.bolt.host/) |
+| Daily Tracker | [Code](https://github.com/Sathvik257/DAILY-TRACKER) · [Demo](https://daily-tracker-navy.vercel.app/) |
+| Drug-Induced Autoimmune Detection | [Code](https://github.com/Sathvik257/DRUG-INDUCED-AUTOIMMUNE-DETECTION) · [Demo](https://drug-induced-autoimmune-detection.vercel.app) — unavailable (404, checked 19 Nov 2026) |
+| LatentForce | [Code](https://github.com/Sathvik257/LatentForce) · [Demo](https://latent-force.vercel.app) |
+| Mini CRM | [Code](https://github.com/Sathvik257/Mini-CRM) · [Demo](https://mini-crm-weld-seven.vercel.app/) |
+| Smart Home | [Code](https://github.com/Sathvik257/Smart-Home) · [Demo](https://smart-home-green.vercel.app) |
+| Smart Resume Builder with AI Suggestions | [Code](https://github.com/Sathvik257/Smart-Resume-Builder-with-AI-Suggestions) · [Demo](https://smart-resume-builder-with-ai-sugges-nu.vercel.app) — unavailable (404, checked 19 Nov 2026) |
+
+</details>
 
 ## What I'm exploring through my work
 
